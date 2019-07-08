@@ -1,3 +1,2 @@
 If a file is modified on master branch and dev branch, fast-forward is not available.
 This is added on github.com
-This is added again on local dev
